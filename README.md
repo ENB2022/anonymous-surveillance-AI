@@ -1,6 +1,6 @@
 ## 🛡️ Privacy-conscious Threat Detection
 
-![Privacy AI Image](/your_image_file_name.png)
+![Privacy AI Image](/ai-threat-detection.png)
 # Privacy-Conscious Threat-Detection AI
 
 ## 🔍 Your idea in a nutshell
