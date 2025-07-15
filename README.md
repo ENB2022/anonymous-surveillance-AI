@@ -2,7 +2,9 @@
 
 ![Privacy AI Image](/ai-threat-detection.png)
 # Privacy-Conscious Threat-Detection AI
+## Summary
 
+This project is a privacy-conscious threat-detection AI system designed to analyze surveillance footage and detect unusual behavior **without identifying individuals**. The system only escalates to identification when legally authorized, preserving civil privacy while improving safety.
 ## 🔍 Your idea in a nutshell
 An anonymized AI surveillance system that detects unusual behavior patterns in public spaces without identifying individuals — unless legal thresholds are met. Designed to support national security without compromising civil liberties.
 
